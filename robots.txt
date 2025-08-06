@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://neurogate.shop/sitemap.xml
